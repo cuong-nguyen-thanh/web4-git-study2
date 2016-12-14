@@ -1,1 +1,2 @@
 Nguoi1: Sua file 1
+nguoi 2: sua file 1
